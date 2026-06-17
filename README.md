@@ -4,13 +4,13 @@ A gaming e-commerce website for Pakistan's premier gaming store, selling PS5, Xb
 
 ## 🎮 Live Preview
 
-Open `tagoline.Inc.html` in your browser to get started.
+Open `index.html` in your browser to get started.
 
 ## 📁 Project Structure
 
 ```
 tangoline_Inc/
-├── tagoline.Inc.html     # Homepage
+├── index.html            # Homepage
 ├── product.html          # Products category page
 ├── console.html          # Consoles listing (PS5, Xbox, Nintendo)
 ├── games.html            # Games listing
