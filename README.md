@@ -1,8 +1,7 @@
-<div align="center">
-
-<img src="logo.png" alt="Tangoline Inc. Logo" width="120" />
+[![Tangoline Inc. Logo](logo.png)](logo.png)
 
 # 🎮 Tangoline Inc.
+
 ### Pakistan's Premier Gaming Store — Frontend Project
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -11,8 +10,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap%205-563D7C?style=flat-square&logo=bootstrap)
 ![Responsive](https://img.shields.io/badge/-Responsive-00C853?style=flat-square&logo=googlechrome&logoColor=white)
 
-</div>
-
 ---
 
 ## 📖 About The Project
@@ -20,6 +17,25 @@
 **Tangoline Inc.** is a fully responsive gaming e-commerce website built as a frontend portfolio project. It simulates a real-world online store for Pakistan's gaming community, featuring products like **PS5**, **Xbox**, and **Nintendo** consoles and games — all wrapped in a sleek dark gaming aesthetic.
 
 > 💡 Built with pure HTML, CSS, and Bootstrap — no build tools or frameworks required.
+
+---
+
+## 📸 Screenshots
+
+<!--
+Yahan apni screenshots lagayein:
+1. screenshots/ folder banayein repo mein
+2. Har page ka screenshot upload karein (homepage.png, products.png, console.png, waghera)
+3. Neeche diye gaye har (screenshots/xxx.png) ko apni image ke naam se replace karein
+-->
+
+| Homepage | Products |
+|---|---|
+| ![Homepage](screenshots/homepage.png) | ![Products](screenshots/products.png) |
+
+| Console Listing | Login Page |
+|---|---|
+| ![Console](screenshots/console.png) | ![Login](screenshots/login.png) |
 
 ---
 
@@ -51,32 +67,33 @@ tangoline-gaming-website/
 ├── sign-in.html          # Sign-up / Register page
 │
 ├── shared.css            # Main stylesheet used across all pages
-├── style.css             # Login page animated background styles
-├── signupstyle.css       # Sign-up page specific styles
+├── style.css              # Login page animated background styles
+├── signupstyle.css        # Sign-up page specific styles
 │
-├── logo.png              # Brand logo
-├── frontbg.png           # Hero background image
-├── game.png              # Games section image
-├── bullet.png            # UI bullet/icon asset
-├── char_2.png            # Character artwork
-├── charac.png            # Character artwork
-├── charac3.png           # Character artwork
-├── charac4.png           # Character artwork
-├── charac5.png           # Character artwork
-├── login.png             # Login page visual
-└── nintendo logo.png     # Nintendo brand logo
+├── screenshots/           # Project screenshots (add your own here)
+├── logo.png                # Brand logo
+├── frontbg.png             # Hero background image
+├── game.png                 # Games section image
+├── bullet.png                # UI bullet/icon asset
+├── char_2.png                 # Character artwork
+├── charac.png                  # Character artwork
+├── charac3.png                  # Character artwork
+├── charac4.png                   # Character artwork
+├── charac5.png                    # Character artwork
+├── login.png                       # Login page visual
+└── nintendo logo.png                # Nintendo brand logo
 ```
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Technology | Purpose |
-|---|---|
-| **HTML5** | Semantic, accessible page structure |
-| **CSS3** | Custom animations, transitions, dark theme |
-| **Bootstrap 5** | Responsive grid and layout utilities |
-| **Google Fonts** | Orbitron (headings) + Rajdhani (body) |
+| Technology       | Purpose                                    |
+| ---------------- | ------------------------------------------ |
+| **HTML5**        | Semantic, accessible page structure        |
+| **CSS3**         | Custom animations, transitions, dark theme |
+| **Bootstrap 5**  | Responsive grid and layout utilities       |
+| **Google Fonts** | Orbitron (headings) + Rajdhani (body)      |
 
 ---
 
@@ -85,13 +102,15 @@ tangoline-gaming-website/
 No build tools or installations needed — it's pure HTML/CSS.
 
 ### Option 1 — Open Directly
-```bash
+
+```
 git clone https://github.com/unaiza-rizwan/tangoline-gaming-website.git
 cd tangoline-gaming-website
 # Open Index.html in your browser
 ```
 
 ### Option 2 — VS Code Live Server *(Recommended)*
+
 1. Open the project folder in **VS Code**
 2. Install the **Live Server** extension
 3. Right-click `Index.html` → **Open with Live Server**
@@ -104,42 +123,45 @@ cd tangoline-gaming-website
 This is a static website — works on any static hosting platform.
 
 ### GitHub Pages
+
 1. Push your code to GitHub
 2. Go to **Settings → Pages**
 3. Set source to `main` branch / root
 4. Your site goes live at:
-   ```
-   https://unaiza-rizwan.github.io/tangoline-gaming-website/
-   ```
+
+```
+https://unaiza-rizwan.github.io/tangoline-gaming-website/
+```
 
 ### Other Platforms
+
 - [Netlify](https://netlify.com) — drag & drop your folder to deploy instantly
 - [Vercel](https://vercel.com) — connect your GitHub repo and deploy in one click
 
 ---
 
-## 📸 Pages Overview
+## 📖 Pages Overview
 
-| Page | Description |
-|---|---|
-| `Index.html` | Landing page with hero banner and featured products |
-| `product.html` | Browse all product categories |
-| `console.html` | PS5, Xbox, Nintendo console listings |
-| `games.html` | Game titles available for purchase |
-| `about-us.html` | Company info and team story |
-| `contact-us.html` | Contact form + newsletter signup |
-| `login.html` | User login with animated background |
-| `sign-in.html` | New user registration page |
+| Page              | Description                                         |
+| ----------------- | ---------------------------------------------------- |
+| `Index.html`      | Landing page with hero banner and featured products |
+| `product.html`    | Browse all product categories                       |
+| `console.html`    | PS5, Xbox, Nintendo console listings                 |
+| `games.html`      | Game titles available for purchase                  |
+| `about-us.html`   | Company info and team story                          |
+| `contact-us.html` | Contact form + newsletter signup                     |
+| `login.html`      | User login with animated background                  |
+| `sign-in.html`    | New user registration page                            |
 
 ---
 
 ## 👩‍💻 Author
 
-**Unaiza Rizwan Ali**  
+**Unaiza Rizwan Ali**
 Frontend & Backend Developer (Entry Level) | Software Engineering Student at Aptech (2027)
 
-📧 unaizaali888@gmail.com  
-🌍 Karachi, Pakistan  
+📧 unaizaali888@gmail.com
+🌍 Karachi, Pakistan
 🐙 [GitHub Profile](https://github.com/unaiza-rizwan)
 
 ---
@@ -150,6 +172,4 @@ This project is open source and available for educational and portfolio purposes
 
 ---
 
-<div align="center">
-  <i>Built with ❤️ as a frontend portfolio project — demonstrating HTML, CSS, Bootstrap & responsive design.</i>
-</div>
+*Built with ❤️ as a frontend portfolio project — demonstrating HTML, CSS, Bootstrap & responsive design.*
