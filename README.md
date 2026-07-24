@@ -1,4 +1,4 @@
-[![Tangoline Inc. Logo](logo.png)](logo.png)
+
 
 # 🎮 Tangoline Inc.
 
