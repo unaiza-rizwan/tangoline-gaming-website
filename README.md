@@ -32,11 +32,14 @@ Yahan apni screenshots lagayein:
 | Homepage | Products |
 |---|---|
 |<img width="1806" height="851" alt="image" src="https://github.com/user-attachments/assets/41e1a500-3eb9-4b07-a359-2e99515e4241" />
- | ![Products](screenshots/products.png) |
+ | <img width="1653" height="716" alt="image" src="https://github.com/user-attachments/assets/020f3236-0150-41cf-a39f-f79f062a32d9" />
+ |
 
 | Console Listing | Login Page |
 |---|---|
-| ![Console](screenshots/console.png) | ![Login](screenshots/login.png) |
+| <img width="1357" height="741" alt="image" src="https://github.com/user-attachments/assets/b0ff59c5-9f19-419e-aa8d-9b337af5cf4e" />
+ |<img width="1482" height="791" alt="image" src="https://github.com/user-attachments/assets/61151ae9-64e1-4d04-89cf-ef56e3a35197" />
+ |
 
 ---
 
