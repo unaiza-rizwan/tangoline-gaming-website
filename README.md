@@ -31,7 +31,8 @@ Yahan apni screenshots lagayein:
 
 | Homepage | Products |
 |---|---|
-| ![Homepage](screenshots/homepage.png) | ![Products](screenshots/products.png) |
+|<img width="1806" height="851" alt="image" src="https://github.com/user-attachments/assets/41e1a500-3eb9-4b07-a359-2e99515e4241" />
+ | ![Products](screenshots/products.png) |
 
 | Console Listing | Login Page |
 |---|---|
